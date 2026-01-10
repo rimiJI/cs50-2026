@@ -1,2 +1,2 @@
-# cs50-2025
-CS50x 2025 Lectures
+# cs50-2026
+CS50x 2026 Lectures
